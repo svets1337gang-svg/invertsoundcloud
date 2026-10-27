@@ -1,0 +1,22 @@
+# Секреты
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Временные файлы скачиваний
+tmp/
+*.mp3.part
+*.part
+
+# Данные бота: подписки и кэш треков
+subscriptions.json
+cache/
+
+# IDE
+.idea/
+.vscode/
